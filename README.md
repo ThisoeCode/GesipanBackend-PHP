@@ -1,8 +1,8 @@
 - The webpages are in **KOREAN** language.
 
-- [MySQL](https://www.mysql.com/) is needed for database.
+- <a href="https://www.mysql.com/" target="_blank">MySQL</a> is needed for database.
 
-- [Composer](https://getcomposer.org/) is needed for dependencies installation.
+- <a href="https://getcomposer.org/" target="_blank">Composer</a> is needed for dependencies installation.
 
 - To run this, you need to:
 
@@ -16,7 +16,7 @@
     ```
 
   2. Run this at the root folder of this repo in a terminal:
-    ```
+    ```bash
     composer install
     ```
 
